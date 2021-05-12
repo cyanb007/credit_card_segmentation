@@ -1,4 +1,4 @@
-# edproject2
+# credit_card_segmentation
 
 This is a second project related to introductory datascience
 
